@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicPaging</string>
+    <string name="post_subtitle">" Submitted by %s"</string>
+</resources>
